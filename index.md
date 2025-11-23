@@ -5,7 +5,7 @@ email:
   url: mailto:niklas@stadi.gs
   text: niklas@stadi.gs
 homepage:
-  url: niklas.stadi.gs
+  url: http://niklas.stadi.gs
   text: niklas.stadi.gs
 ---
 
@@ -54,11 +54,11 @@ Frontend-utvecklare för Apple Maps
 _React.js_
 
 
-### Oden Business Intelligence `2015-05 - 2023-05`
+### **Oden Business Intelligence** `2015-05 - 2023-05`
 
 _Frontend Developer_<br>
 
-Oden är en företagsapplikation för HR, CRM, tidrapportering och finanser med avancerade visualiseringsverktyg. 
+[Oden](https://oden.se/) är en företagsapplikation för HR, CRM, tidrapportering och finanser med avancerade visualiseringsverktyg. 
 
 Jag arbetade tillsammans med back-end-utvecklare för att optimera prestandan med nya dataformat och implementerade ramverk för datalager och visualiseringar.
 
