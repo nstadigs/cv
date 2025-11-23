@@ -25,9 +25,11 @@ Supported arguments:
 
 ### **Sogeti:** Securitas `2025-02 -`
 
-_Senior Frontend Developer_
+_Senior Frontend Developer_<br>
 
 På Securitas är jag med och underhåller och utvecklar med deras gemensamma it-platform [MySecuritas](https://www.securitas.se/produkter-tjanster/mysecuritas/) som används av Securitas kunder och installatörer för att hantera sina tjänster.
+
+_React.js, Typescript, Microfrontends_
 
 ### **Tretton37:** Carbonzero `2024-05 - 2024-10`
 
@@ -53,7 +55,6 @@ Frontend-utvecklare för Apple Maps
 
 _React.js_
 
-
 ### **Oden Business Intelligence** `2015-05 - 2023-05`
 
 _Frontend Developer_<br>
@@ -62,7 +63,7 @@ _Frontend Developer_<br>
 
 Jag arbetade tillsammans med back-end-utvecklare för att optimera prestandan med nya dataformat och implementerade ramverk för datalager och visualiseringar.
 
-_Apache, Business Intelligence, Docker, GitLab, jQuery, KnockoutJS, Linux, Monorepo, PHP, React.js, SaltStack, Symfony framework_
+_Apache, Docker, GitLab, jQuery, KnockoutJS, Linux, Monorepo, PHP, React.js, SaltStack, Symfony framework_
 
 ### **Chas Visual Management:** Fritidsresor (TUI Nordic) `2014-01 - 2015-04`
 
