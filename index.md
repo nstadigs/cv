@@ -75,6 +75,8 @@ _Frontend Developer_<br>
 
 [Oden](https://oden.se/) är en företagsapplikation för HR, CRM, tidrapportering och finanser med avancerade visualiseringsverktyg. 
 
+Se "I fokus" ovan.
+
 _Apache, Docker, GitLab, jQuery, KnockoutJS, Linux, Monorepo, PHP, React.js, SaltStack, Symfony framework_
 
 ### **Chas Visual Management:** Fritidsresor (TUI Nordic) `2014-01 - 2015-04`
