@@ -11,7 +11,7 @@ homepage:
 
 ### Hej, 
 
-<img src="/media/pic.jpg" align="right"  style="margin-left: 2em; margin-bottom: 2em;">
+<img src="/media/pic.jpg" align="right" width="200" height="200" style="margin-left: 2em; margin-bottom: 2em;">
 Jag söker tjänsten som frontend-utvecklare hos er på StepLock Access då annonsen fick mig att känna mig träffad.
 
 Jag bor i Falun sedan sex år tillbaka med min fru och mina två barn och vill gärna arbeta närmare hemmet.
