@@ -21,7 +21,21 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Professionell Erfarenhet
+## I fokus
+
+### **Oden Business Intelligence** `2015-05 - 2023-05`
+
+_Frontend Developer_<br>
+
+[Oden](https://oden.se/) är en företagsapplikation för HR, CRM, tidrapportering och finanser med avancerade visualiseringsverktyg. Det är en relativt stor applikation där backend är byggt på PHP-ramverket Symfony och där majoriteten av vyerna byggdes i React.
+
+Jag var del av ett mindre utvecklingsteam där var och en av oss hade sina egna specialiteter men ändå arbetade över hela stacken. Vi var alla ansvariga för Frontend, Backend, Databasmigreringar, CI/CD samt infrastruktur. Under min tid i Oden moderniserades lösningen på frontend-sidan avsevart.
+
+Jag arbetade tillsammans med back-end-utvecklare för att optimera prestandan med nya dataformat och implementerade ramverk för datalager och visualiseringar. Samt designers för att få lösningen så simpel och användarvänlig som möjligt.
+
+_Apache, Docker, GitLab, jQuery, KnockoutJS, Linux, Monorepo, PHP, React.js, SaltStack, Symfony framework, MariaDB_
+
+## Erfarenhet
 
 ### **Sogeti:** Securitas `2025-02 -`
 
@@ -39,7 +53,7 @@ _Fullstack Developer_<br>
 
 _Node.js, Express.js, GraphQL, Linux, NestJS, Postgres, Prisma ORM, VueJS_
 
-### **Tretton37:** Oleter Group `2023.11 - 2024.2`
+### **Tretton37:** Oleter Group `2023-11 - 2024-02`
 
 _Frontend Developer_<br>
 
@@ -47,7 +61,7 @@ Hubb är ett projektledningssystem för Oleter Group med arbetsorderhantering, t
 
 _UX/ UI, VueJS_
 
-### **Tretton37:** Apple `2023.06 - 2023.9`
+### **Tretton37:** Apple `2023-06 - 2023-09`
 
 _Frontend Developer_<br>
 
@@ -60,8 +74,6 @@ _React.js_
 _Frontend Developer_<br>
 
 [Oden](https://oden.se/) är en företagsapplikation för HR, CRM, tidrapportering och finanser med avancerade visualiseringsverktyg. 
-
-Jag arbetade tillsammans med back-end-utvecklare för att optimera prestandan med nya dataformat och implementerade ramverk för datalager och visualiseringar.
 
 _Apache, Docker, GitLab, jQuery, KnockoutJS, Linux, Monorepo, PHP, React.js, SaltStack, Symfony framework_
 
