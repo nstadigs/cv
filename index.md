@@ -49,7 +49,7 @@ _React.js, Typescript, Microfrontends_
 
 _Fullstack Developer_<br>
 
-[Prodikt](https://www.prodikt.com/) är ett system för beräkning av klimatpåverkan från byggkonstruktioner. Niklas var del av ett team som utvecklade nästa version med mikrotjänster i Node, GraphQL-gateway, anpassat UI-komponentsystem och en klientapplikation i Vue.
+[Prodikt](https://www.prodikt.com/) är ett system för beräkning av klimatpåverkan från byggkonstruktioner. Jag var del av ett team som utvecklade nästa version med mikrotjänster i Node, GraphQL-gateway, anpassat UI-komponentsystem och en klientapplikation i Vue.
 
 _Node.js, Express.js, GraphQL, Linux, NestJS, Postgres, Prisma ORM, VueJS_
 
@@ -57,7 +57,7 @@ _Node.js, Express.js, GraphQL, Linux, NestJS, Postgres, Prisma ORM, VueJS_
 
 _Frontend Developer_<br>
 
-Hubb är ett projektledningssystem för Oleter Group med arbetsorderhantering, tid- och kostnadsrapportering samt projektplanering. Niklas förbättrade UI/UX och införde en projektvisualiserare. Använder Typescript, Vue, Vuetify, versionskontroll på Github och distribueras till Azure.
+Hubb är ett projektledningssystem för Oleter Group med arbetsorderhantering, tid- och kostnadsrapportering samt projektplanering. Jag förbättrade UI/UX och införde en projektvisualiserare. Använder Typescript, Vue, Vuetify, versionskontroll på Github och distribueras till Azure.
 
 _UX/ UI, VueJS_
 
@@ -85,7 +85,7 @@ _Frontend Developer_<br>
 
 Facit är ett internt system som används av anställda på TUI Nordic för att hantera kostnads- och prisberäkningar av resepaket över hela världen.
 
-Jag anslöt till ett litet team för att hjälpa dem lösa problem med minnesläckor och allmänna prestandaproblem i applikationen. Han gick sedan vidare till att utveckla interaktiva kalkylbladsliknande datatabeller och andra användargränssnit.
+Jag anslöt till ett litet team för att hjälpa dem lösa problem med minnesläckor och allmänna prestandaproblem i applikationen. Jag gick sedan vidare till att utveckla interaktiva kalkylbladsliknande datatabeller och andra användargränssnit.
 
 _C#, Durandal, Flux, KnockoutJS, LESS/CSS, Mocha, PhantomJS, React.js_
 
