@@ -134,16 +134,12 @@ _CSS, JavaScript, jQuery_
 
 ### **Chas Academy: Git Advanced** `2018`
 
-Youtube (spellista):
-  https://www.youtube.com/watch?v=ZDxmKMhoEvc&list=PLAXNKpPVaC2Nqk2t1CRwDYN2qnQRC1YZY&index=1
+[Youtube (spellista)](https://www.youtube.com/watch?v=ZDxmKMhoEvc&list=PLAXNKpPVaC2Nqk2t1CRwDYN2qnQRC1YZY&index=1)
 
-Slides:
- - https://slides.com/nstadigs/deck-12
- - https://slides.com/nstadigs/deck-12-13
- - https://slides.com/nstadigs/deck-12-a3ddeb14-1686-4a7e-bc6e-ac14e18e5a9b
+Slides: [1](https://slides.com/nstadigs/deck-12) [2](https://slides.com/nstadigs/deck-12-13) [3](https://slides.com/nstadigs/deck-12-a3ddeb14-1686-4a7e-bc6e-ac14e18e5a9b)
 
 Jag har sedan dess hållit föreläsningar om git vid ett flertal tillfällen.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Nov 2025 -->
