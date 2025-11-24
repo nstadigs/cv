@@ -9,8 +9,6 @@ homepage:
   text: niklas.stadi.gs
 ---
 
-![Jag](http://niklas.stadi.gs/media/pic.jpg)
-
 ### Hej, 
 
 <img src="/media/pic.jpg" align="right"  style="margin-left: 2em; margin-bottom: 2em;">
