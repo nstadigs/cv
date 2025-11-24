@@ -1,4 +1,13 @@
-### Hej,
+---
+layout: letter
+title: Hej
+email:
+  url: mailto:niklas@stadi.gs
+  text: niklas@stadi.gs
+homepage:
+  url: http://niklas.stadi.gs
+  text: niklas.stadi.gs
+---
 
 Jag söker tjänsten som frontend-utvecklare hos er på StepLock Access då annonsen fick mig att känna mig träffad.
 
