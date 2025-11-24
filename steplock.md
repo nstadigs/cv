@@ -1,6 +1,6 @@
 ### Hej,
 
-Jag söker tjänsten som frontend-utvecklare hos er då annonsen fick mig att känna mig träffad.
+Jag söker tjänsten som frontend-utvecklare hos er på StepLock Access då annonsen fick mig att känna mig träffad.
 
 Jag bor i Falun sedan sex år tillbaka med min fru och mina två barn och vill gärna arbeta närmare hemmet.
 
